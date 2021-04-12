@@ -3,3 +3,5 @@
 /workspace.xml
 /.idea/
 /sineokaya-web-ui.iml
+/src/main/java/org/example/
+/src/test/java/org/example/
